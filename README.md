@@ -6,7 +6,7 @@
 EruxMod Minecraft PvP Client
 
 - Client Version: 1.8.9
-- [Discord](https://discord.gg/Ep8Xqf3Vvq)✨
+[![N|Solid](https://i.imgur.com/N7uLy5y.png)](http://eruxmod.at/)
 
 ## Features
 
