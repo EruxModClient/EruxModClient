@@ -1,46 +1,22 @@
-# EruxMod
-## Offical EruxMod Client GitHub
+<h1 align="center">Hi 👋, I'm Daiv</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## [Download EruxMod](https://github.com/EruxModClient/EruxModLauncher)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eruxmodclient&label=Profile%20views&color=0e75b6&style=flat" alt="eruxmodclient" /> </p>
 
-EruxMod Minecraft PvP Client
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eruxmodclient" alt="eruxmodclient" /></a> </p>
 
-- Client Version: 1.8.9
-[![N|Solid](https://discord.io/eruxmod/badge)](https://discord.gg/d5j3JCDfy8)
+- 📫 How to reach me **mail@eruxmod.de**
 
-## Features
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/gqmjBv78SH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gqmjBv78SH" height="30" width="40" /></a>
+</p>
 
-- 1.7 Animations
-- FullBright
-- Reach Counter
-- BPS
-- CPS
-- Cosmetics...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eruxmodclient&show_icons=true&locale=en&layout=compact" alt="eruxmodclient" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eruxmodclient&show_icons=true&locale=en" alt="eruxmodclient" /></p>
 
-> EruxMod is a PvP Client based on the Minecraft Version 1.8.9.
-> The Developer is [Einstypexy](https://twitch.tv/einstypexy).
-> Client was coded with Intellij Idea [Download](https://www.jetbrains.com/de-de/idea/download/).
-
-
-## Installation
-
-Download the newest release [here]()
-Run the "EruxMod Launcher Setup.exe" and you are Done.
-
-## Need Support?
-
-If you need Support you can join our [Discord](https://discord.gg/Ep8Xqf3Vvq)
-
-| Date | Time |
-| ------ | ------ |
-| Monday | 10:30am - 16:30pm |
-| Tuesday | 10:30am - 16:30pm |
-| Wednesday | 10:30am - 16:30pm |
-| Thursday | 10:30am - 16:30pm |
-| Friday | 14:30am - 15:30pm |
-
-## Want Support Us?
-If you want to Support us you can Donate [here](https://streamlabs.com/tip/einstypexy)
-Thanks.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eruxmodclient&" alt="eruxmodclient" /></p>
