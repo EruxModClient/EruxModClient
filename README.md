@@ -2,7 +2,6 @@
 <h3 align="center">A Minecraft Client for a better experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eruxmodclient&label=Profile%20views&color=0e75b6&style=flat" alt="eruxmodclient" /> </p>
-[create issue](https://github.com/EruxModClient/EruxModClient/issues/new)
 
 - 🔭 We’re currently working on **Ingame Cosmetics**
 
